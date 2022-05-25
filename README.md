@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-And something about me :)
+#### And something about me :)
 ---
 
 - 🌱 I’m currently learning React Js and Python
